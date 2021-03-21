@@ -1,6 +1,6 @@
 # Project: Geospatial data analysis and visualisation
 
-Ploting the geospatial data of the hurricane Florence and customize the shape, color, and overlay of plots to show a story. Visualised the hurricane locaion on the US map to see where it hit and how strong it was at that time.
+Ploting the geospatial data of the hurricane Florence and customize the shape, color, and overlay of plots to show a story on [jupyternotebook](https://github.com/yukaberry/hurricane_geospatial_analysis/blob/master/hurrican_florence_geospatial.ipynb). Visualised the hurricane locaion on the US map to see where it hit and how strong it was at that time.
 
 ![hurricane](/data/hurricane_image.PNG)
 
